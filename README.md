@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i love to solve hard problems 🌟
 <div>
 <h1>💻 Leetcode stats</h1>
-<div>
+<div align="center">
   
-![](https://leetcard.jacoblin.cool/adityakumar8068?ext=contest)
+  ![](https://leetcard.jacoblin.cool/adityakumar8068?ext=contest)
 </div>
-  
+</div>
+<h1></h1>
+<div align="center">
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityakumar012&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages use graph"  /></p>
 </div>
